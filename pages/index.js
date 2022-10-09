@@ -48,6 +48,10 @@ export default function Home() {
             <span className="text-teal-500"> startups</span> and collaborated with talented people to create digital products for
             both business and consumer use.
           </p>
+          <p>
+            I offer wide range of services including programming,
+            animation and teaching.
+          </p>
         </div>
        </section>
       </main>
